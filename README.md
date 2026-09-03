@@ -124,6 +124,6 @@ This software does not host, store, or distribute copyrighted content.
 
 Any DMCA complaints should be directed to the hosting provider, not to us.
 
-[Read more here](https://docs.cinepro.cc/core/general-information/license)
+[Read more here](https://docs.cinepro.cc/core/general-information/license) A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
